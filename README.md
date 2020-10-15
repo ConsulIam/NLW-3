@@ -7,11 +7,9 @@ Happy App is a mobile and web project to connect people want to visit and to hel
 
 *Being developing*
 
-Trilha Discovery: Workshop 01 - Time 1:06:45 - HTML structure ready
-
 ### Table of content based in the videos from 12th October to 16th October
 
-- [ ] First day - 
+- [x] First day - Trilha Discovery: Workshop 01
 - [ ] Second day - 
 - [ ] Third day - 
 - [ ] Fourth day - to discovery
