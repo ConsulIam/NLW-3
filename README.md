@@ -11,7 +11,7 @@ Happy App is a mobile and web project to connect people want to visit and to hel
 
 - [x] First day - Trilha Discovery: Workshop 01
 - [x] Second day - Trilha Discovery: Workshop 02
-- [ ] Third day - 
+- [x] Third day - Trilha Discovery: Workshop 03 - Front end finished
 - [ ] Fourth day - to discovery
 - [ ] Fifth and last day - to discovery
 
